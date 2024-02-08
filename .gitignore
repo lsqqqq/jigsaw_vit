@@ -1,0 +1,5 @@
+__pycache__/
+*.pth
+*.out
+log/
+jigsaw_old/
